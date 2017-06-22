@@ -719,8 +719,6 @@ Footer
   padding-left: 50px;
   padding-right: 50px;
   height: 70px;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
   box-sizing: border-box; }
   .site-header .button-wrap {
     display: none;
@@ -779,7 +777,6 @@ Footer
   height: 1px;
   background: #7e7e7e;
   display: block;
-  -webkit-transition: width 0.25s ease;
   transition: width 0.25s ease; }
 
 .navbar ul li:hover:before {
