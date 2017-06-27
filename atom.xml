@@ -47,9 +47,9 @@
     </summary>
     
     
-      <category term="discount" scheme="http://yoursite.com/tags/discount/"/>
-    
       <category term="adidas" scheme="http://yoursite.com/tags/adidas/"/>
+    
+      <category term="discount" scheme="http://yoursite.com/tags/discount/"/>
     
   </entry>
   
